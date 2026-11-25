@@ -193,12 +193,12 @@ The initial request may take longer after inactivity.
 
 ### Amazon
 
-**Support Engineer Intern | January 2023 – June 2023**
+**Intern | Software Development | January 2023 – June 2023**
 
-- Developed automated reporting and data processing workflows
-  using AWS QuickSight and SQL.
-- Reduced manual operational effort by **8+ hours per month**.
-- Worked on data extraction, transformation, and reporting accuracy.
+- Developed automated data processing and reporting workflows using AWS QuickSight and SQL.
+- Designed data extraction, transformation, and integration workflows.
+- Reduced manual operational effort by **8+ hours per month** through automation.
+- Improved reporting accuracy and operational efficiency using AWS cloud services.
 
 ---
 
